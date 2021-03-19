@@ -1,0 +1,32 @@
+<<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>Kimmens Home Page</title>
+  </head>
+  <body>
+    <h1>Kim Backman</h1>
+    <p>En massa jiba jaba</p>
+    <p>Mera <strong>jiba jaba</strong></p>
+    <hr>
+    <h3>Skolningar</h3>
+    <h3>Arbets ärfaranhet</h3>
+    <h3>Kodan ärfaranhet</h3>
+    <table>
+      <tr>
+        <td>Css</td>
+        <td>****</td>
+      </tr>
+      <tr>
+        <td>HTML</td>
+        <td>****</td>
+      </tr>
+      <tr>
+        <td>JS</td>
+        <td>****</td>
+      </tr>
+    </table>
+    <hr>
+
+  </body>
+</html>
